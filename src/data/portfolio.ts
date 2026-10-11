@@ -332,7 +332,7 @@ export const skillCategories: SkillCategory[] = [
       { name: 'CN', mono: 'Cn' },
       { name: 'DBMS', mono: 'Db' },
       { name: 'OOPs', mono: 'Oo' },
-      { name: 'AI', mono: 'Co' },
+      { name: 'Artificial Intelligence', mono: 'AI' },
       { name: 'Machine Learning', mono: 'Ml' },
       { name: 'Deep Learning', mono: 'Dl' },
       { name: 'Large Language Models/Small Language Models', mono: 'Lm' },
