@@ -5,7 +5,7 @@ import sharp from 'sharp';
 import { mkdirSync } from 'node:fs';
 
 const OUT = 'public/assets';
-mkdirSync(OUT, { recursive: true });
+mkdirSync(OUT, { recursive: true }); 
 
 const hi = sharp('pic1.jpeg');
 const { width, height } = await hi.metadata();
